@@ -1,0 +1,85 @@
+[09-Apr-2022 22:39:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:39:44 UTC] PHP Stack trace:
+[09-Apr-2022 22:39:44 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-cron.php:0
+[09-Apr-2022 22:39:44 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-cron.php:39
+[09-Apr-2022 22:39:44 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:39:44 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:39:44 UTC] PHP   5. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:39:44 UTC] PHP   6. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:39:44 UTC] PHP   7. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:39:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:39:51 UTC] PHP Stack trace:
+[09-Apr-2022 22:39:51 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-admin\index.php:0
+[09-Apr-2022 22:39:51 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\index.php:10
+[09-Apr-2022 22:39:51 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\admin.php:34
+[09-Apr-2022 22:39:51 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:39:51 UTC] PHP   5. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:39:51 UTC] PHP   6. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:39:51 UTC] PHP   7. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:39:51 UTC] PHP   8. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:39:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:39:52 UTC] PHP Stack trace:
+[09-Apr-2022 22:39:52 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\index.php:0
+[09-Apr-2022 22:39:52 UTC] PHP   2. require() D:\3-Development\2-B2W2\app\public\index.php:17
+[09-Apr-2022 22:39:52 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-blog-header.php:13
+[09-Apr-2022 22:39:52 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:39:52 UTC] PHP   5. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:39:52 UTC] PHP   6. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:39:52 UTC] PHP   7. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:39:52 UTC] PHP   8. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:39:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:39:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:39:53 UTC] PHP Stack trace:
+[09-Apr-2022 22:39:53 UTC] PHP Stack trace:
+[09-Apr-2022 22:39:53 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:0
+[09-Apr-2022 22:39:53 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:0
+[09-Apr-2022 22:39:53 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:22
+[09-Apr-2022 22:39:53 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:22
+[09-Apr-2022 22:39:53 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:39:53 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:39:53 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:39:53 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:39:53 UTC] PHP   5. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:39:53 UTC] PHP   5. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:39:53 UTC] PHP   6. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:39:53 UTC] PHP   6. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:39:53 UTC] PHP   7. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:39:53 UTC] PHP   7. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:40:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:40:46 UTC] PHP Stack trace:
+[09-Apr-2022 22:40:46 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\index.php:0
+[09-Apr-2022 22:40:46 UTC] PHP   2. require() D:\3-Development\2-B2W2\app\public\index.php:17
+[09-Apr-2022 22:40:46 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-blog-header.php:13
+[09-Apr-2022 22:40:46 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:40:46 UTC] PHP   5. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:40:46 UTC] PHP   6. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:40:46 UTC] PHP   7. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:40:46 UTC] PHP   8. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:40:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:40:54 UTC] PHP Stack trace:
+[09-Apr-2022 22:40:54 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:0
+[09-Apr-2022 22:40:54 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:22
+[09-Apr-2022 22:40:54 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:40:54 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:40:54 UTC] PHP   5. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:40:54 UTC] PHP   6. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:40:54 UTC] PHP   7. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:41:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:41:33 UTC] PHP Stack trace:
+[09-Apr-2022 22:41:33 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\index.php:0
+[09-Apr-2022 22:41:33 UTC] PHP   2. require() D:\3-Development\2-B2W2\app\public\index.php:17
+[09-Apr-2022 22:41:33 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-blog-header.php:13
+[09-Apr-2022 22:41:33 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:41:33 UTC] PHP   5. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:41:33 UTC] PHP   6. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:41:33 UTC] PHP   7. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:41:33 UTC] PHP   8. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
+[09-Apr-2022 22:42:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b2w_theme_setup' not found or invalid function name in D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php on line 286
+[09-Apr-2022 22:42:55 UTC] PHP Stack trace:
+[09-Apr-2022 22:42:55 UTC] PHP   1. {main}() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:0
+[09-Apr-2022 22:42:55 UTC] PHP   2. require_once() D:\3-Development\2-B2W2\app\public\wp-admin\admin-ajax.php:22
+[09-Apr-2022 22:42:55 UTC] PHP   3. require_once() D:\3-Development\2-B2W2\app\public\wp-load.php:37
+[09-Apr-2022 22:42:55 UTC] PHP   4. require_once() D:\3-Development\2-B2W2\app\public\wp-config.php:91
+[09-Apr-2022 22:42:55 UTC] PHP   5. do_action() D:\3-Development\2-B2W2\app\public\wp-settings.php:509
+[09-Apr-2022 22:42:55 UTC] PHP   6. WP_Hook->do_action() D:\3-Development\2-B2W2\app\public\wp-includes\plugin.php:465
+[09-Apr-2022 22:42:55 UTC] PHP   7. WP_Hook->apply_filters() D:\3-Development\2-B2W2\app\public\wp-includes\class-wp-hook.php:310
